@@ -1,0 +1,24 @@
+{
+    "name": "RotatableAnimations",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "RotatableImage": "github:seamoose04/RotatableImage#e12dfdb503d03bbfa571c83bd03de1d2be1418d8"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.58",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
